@@ -1,0 +1,109 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AVzFdbmN2FwqfG8quG6qmyuC70mFDD96-03PkxxOJU-r4G5SgcKxbJK7Y8YIPv8ajOzpIa3P3uzgYfNStNg-KCZzqJ2UVaioxc8sv3JZKjJpQWhBYJ64CxPU_aKapDoDAhnRBkKlJ9cTBlDRXs9S2jugk0FziNd6CpxdSvrL3-bXLFyyKQv8AQykl2PmkFm9s7vdNGbxRyoykz8d4bUAEn6xM3iIwqbEzkaHdAa0sodTjaGpVa8sTK7zmWVb3iPnZvG8kVQXGpW2DRxzYJ9NrjLuev2GAycnZdP-2_ck7iBmgpRoxZZssalS0nCrDGsXcMvPsJv3UvXIfTF6w3dk-wMFc3qSlAlToxHDAlv-EaL6Q1SdWvo8hNtz3SCaEuuOm6UaWOOQBKkFEMCQYLpPg15Py2jLrWinxRWyUMulIZn84wdgVPdafnZ-KQx9doJP2jbCITGRklQIBmjg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6991877,
+                    "lng": 72.973891
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.70050302989272,
+                        "lng": 72.97526047989271
+                    },
+                    "southwest": {
+                        "lat": 33.69780337010728,
+                        "lng": 72.97256082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Karachi Biryani and BAR B Que Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102889643451174272025\">A Google User</a>"
+                    ],
+                    "photo_reference": "AVzFdblYyxvzmUcpnNeyyEYC_sU68MqE1yCLzBfcmAOS_3V7bdQkJyk0FBphTErmsv0AyuZA6gO19F6DHu0eJ_lUahKZkG7T1vuB2JR5GNYDDEOuF1mPssrAwKrmVYMflaZ-3p8Eogs4CAQJxKFF9goqK9GGO5uGWRFKily-lM3IHTQpVIBAU1DIA45B",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJY-AjON-93zgR_K423Ylncjc",
+            "rating": 4.2,
+            "reference": "ChIJY-AjON-93zgR_K423Ylncjc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "MXXF+MHC, Services Society SCHS E 11/3 E-11, Islamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.7040902,
+                    "lng": 72.9792889
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.70545477989272,
+                        "lng": 72.98062917989272
+                    },
+                    "southwest": {
+                        "lat": 33.70275512010728,
+                        "lng": 72.97792952010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Lahori Chaska",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111959436898196552501\">Muhammad Ikram Khan</a>"
+                    ],
+                    "photo_reference": "AVzFdbmKZpQc2ZJOycGSmH15Z2yMqh5qyeCyeDUWLa3LbZHEWETi_WqLlFPEWDUJi5_0E5z6C4IhGy5UQINOlu4jTjAk4KWL5zaGx39N64c-t6L32wjJCGnJinP1OC4XjnRAeGh8juJ41E9pMMpPesznJ0-eNK5rxTx-lCI5lcRIA9fL5O7Ootds4Er0",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ7e7-Uc693zgROqf30vYRGHU",
+            "plus_code": {
+                "compound_code": "PX3H+JP Islamabad",
+                "global_code": "8J5JPX3H+JP"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ7e7-Uc693zgROqf30vYRGHU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 742,
+            "vicinity": "Plot 12 Street 70, MPCHS E-11/3 MPCHS E 11/2 E-11, Islamabad"
+        }
+        
+    ],
+    "status": "OK"
+}

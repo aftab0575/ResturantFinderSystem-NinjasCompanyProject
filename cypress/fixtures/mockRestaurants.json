@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Test Restaurant 1",
+    "vicinity": "123 Test Street",
+    "rating": 4.5,
+    "price_level": 2,
+    "geometry": { "location": { "lat": 37.7749, "lng": -122.4194 } },
+    "photos": [{ "photo_reference": "AVzFdbnM-OznjWm_5EDN64GAt5BbubqgohDnVP7BzHKgG-z4mk2WjcJVz_u93ziHN4sb78Bl7kOoHF1vCwXLiZRKdGj3FbGuf7C9hH1-7cXR_kmqwePR0K_KnWzUND8IucjBhx_dopz4wGr0W8jjSrUoRxIKoy2TJr9PVg7zYlTs7NBL1XLJ" }]
+  },
+  {
+    "name": "Test Restaurant 2",
+    "vicinity": "456 Test Avenue",
+    "rating": 3.8,
+    "price_level": 1,
+    "geometry": { "location": { "lat": 37.7750, "lng": -122.4195 } },
+    "photos": [{ "photo_reference": "AVzFdbnVbck6cD6cDGY00n7c3hdnWOZS_dqUvxoYXz7642XaL8ATs1qzab3gGNj_D6_XRoqmf0sSMvL5HtH7sxD2zmJl96PRbD6mcVYQj9X6n9TKoZtSsDE0uc8Irggr95nr-SMhOFna1tS2kEBOhxAlY4h1JIkt5WnX6ghRZZMKVqSasjJt" }]
+  }
+]
