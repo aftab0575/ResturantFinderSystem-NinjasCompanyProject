@@ -5,7 +5,7 @@ Find the best restaurants near you with just one click! This **Next.js 14+** app
 ---
 
 # Demo Video
-you can seee the demo video of this application through this link:
+you can seee the demo video of this application through this link.
 link: https://drive.google.com/file/d/1l7h_g-3jfcMaUbdmUv3cNoMhLRPIidT0/view?usp=sharing
 
 ---
